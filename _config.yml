@@ -4,7 +4,7 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Strawberry Patch Puzzles
 email: masechoi+strawberry@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Personalized and customized puzzle scavenger hunts."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -52,9 +52,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/strawberrypatchpuzzles/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
+  - title: pinterest
+    url: https://www.pinterest.com/sppuzzles/
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
