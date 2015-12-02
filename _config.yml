@@ -55,15 +55,11 @@ social:
     url: 
   - title: pinterest
     url: https://www.pinterest.com/sppuzzles/
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
